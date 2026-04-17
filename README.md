@@ -1,5 +1,8 @@
 # universal-u-sysml-v2
 
+<img width="1533" height="551" alt="Screenshot 2026-04-17 at 12 36 47" src="https://github.com/user-attachments/assets/7a0809bc-3f4d-4a1c-a60d-1fb0d78bb1af" />
+
+
 **From River Rouge to Toulouse**
 
 What Higher Education Can Learn from a Century of Manufacturing Complexity
