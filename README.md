@@ -4,7 +4,7 @@
 
 **What Higher Education Can Learn from a Century of Manufacturing Complexity
 
-A Position Paper  ·  USNH MBSE Research Initiative  ·  April 2026  ·  Draft for Review**
+A Position Paper  ·  MBSE Research Initiative  ·  April 2026  ·  Draft for Review**
  
 This paper argues that higher education information technology deployments — and student information system implementations in particular — exhibit the structural characteristics that make Model-Based Systems Engineering the appropriate specification discipline: high interface complexity, multi-vendor distributed delivery, and long asset lifecycles. Drawing on a century of manufacturing evolution from River Rouge to the Airbus A350 program, it situates MBSE not as a replacement for Agile practices but as a missing complementary layer. It proposes a vendor-neutral SysML v2 reference model of the university enrollment process as a first contribution toward the infrastructure higher education will require.
 
@@ -83,14 +83,14 @@ This work is offered as a contribution to the former path. The reference model w
  
 **References and Notes**
 
-1.  Royce, W.W. (1970). Managing the development of large software systems. Proceedings of IEEE WESCON, 26, 1–9. The paper that defined waterfall methodology, drawing on sequential manufacturing process models.
-2.  Ohno, T. (1988). Toyota Production System: Beyond Large-Scale Production. Productivity Press. The foundational text on Toyota Production System and just-in-time manufacturing.
-3.  Deming, W.E. (1982). Out of the Crisis. MIT Press. Quality management as a systemic discipline; developed in Japan during the postwar period.
-4.  Beck, K. et al. (2001). Manifesto for Agile Software Development. agilemanifesto.org.
-5.  Kingsley-Jones, M. (2006). Airbus A380 wiring problems explained. Flight International, October 2006. Documents the CATIA version incompatibility between Hamburg and Toulouse facilities that caused the A380 production delays.
-6.  Helle, P. and Schramm, M. (2024). Fly me to the Moon — Modeling Apollo 11 using SysML v2. ResearchGate preprint. The direct methodological precedent for this work.
-7.  National Center for Education Statistics. (2024). IPEDS Data Collection Glossary. nces.ed.gov/ipeds.
-8.  Postsecondary Electronic Standards Council. (2019). Student Academic History XML Data Dictionary v1.9.0. pesc.org.
-9.  IMS Global Learning Consortium. (2012). IMS Learning Information Services (LIS) v2.0 Final Specification. imsglobal.org.
+Royce, W.W. (1970). Managing the development of large software systems. Proceedings of IEEE WESCON, 26, 1–9. The paper that defined waterfall methodology, drawing on sequential manufacturing process models.
+Ohno, T. (1988). Toyota Production System: Beyond Large-Scale Production. Productivity Press. The foundational text on Toyota Production System and just-in-time manufacturing.
+Deming, W.E. (1982). Out of the Crisis. MIT Press. Quality management as a systemic discipline; developed in Japan during the postwar period.
+Beck, K. et al. (2001). Manifesto for Agile Software Development. agilemanifesto.org.
+Kingsley-Jones, M. (2006). Airbus A380 wiring problems explained. Flight International, October 2006. Documents the CATIA version incompatibility between Hamburg and Toulouse facilities that caused the A380 production delays.
+Helle, P. and Schramm, M. (2024). Fly me to the Moon — Modeling Apollo 11 using SysML v2. ResearchGate preprint. The direct methodological precedent for this work.
+National Center for Education Statistics. (2024). IPEDS Data Collection Glossary. nces.ed.gov/ipeds.
+Postsecondary Electronic Standards Council. (2019). Student Academic History XML Data Dictionary v1.9.0. pesc.org.
+IMS Global Learning Consortium. (2012). IMS Learning Information Services (LIS) v2.0 Final Specification. imsglobal.org.
  
-**From River Rouge to Toulouse  ·  Position Paper Draft  ·  USNH MBSE Research Initiative  ·  April 2026  ·  Not for external distribution**
+**From River Rouge to Toulouse  ·  Position Paper Draft  ·  MBSE Research Initiative  ·  April 2026**
