@@ -3,7 +3,7 @@
 <img width="1533" height="551" alt="Screenshot 2026-04-17 at 12 36 47" src="https://github.com/user-attachments/assets/7a0809bc-3f4d-4a1c-a60d-1fb0d78bb1af" />
 
 
-Position Paper  ·  MBSE Research Initiative  ·  April 2026  ·  Draft for Review
+MBSE Research Initiative  ·  April 2026  ·  Draft for Review
 
 **From River Rouge to Toulouse**: What Higher Education Can Learn from a Century of Manufacturing Complexity
 
@@ -19,13 +19,13 @@ Higher education information technology deployments exhibit a structural failure
 
 This is not a new observation. It is a persistent one. And it will remain persistent as long as higher education continues to apply a specification discipline suited to a different class of problem.
 
-The argument of this paper is specific: higher education SIS implementations have the structural characteristics that make Model-Based Systems Engineering the appropriate specification approach, and the sector has not yet recognized this. High interface complexity. Multi-vendor distributed delivery. Long asset lifecycles where the specification must outlast any particular implementation. These are the conditions under which formal models — vendor-neutral, machine-readable, formally traceable from requirement to interface to implementation — provide value that documentation cannot. They are also, precisely, the conditions of every major university technology deployment.
+The argument of this work is specific: higher education SIS implementations have the structural characteristics that make Model-Based Systems Engineering the appropriate specification approach, and the sector has not yet recognized this. High interface complexity. Multi-vendor distributed delivery. Long asset lifecycles where the specification must outlast any particular implementation. These are the conditions under which formal models — vendor-neutral, machine-readable, formally traceable from requirement to interface to implementation — provide value that documentation cannot. They are also, precisely, the conditions of every major university technology deployment.
 
 MBSE is not a replacement for project management. It is the missing layer beneath it — the formal interface specification discipline that tells each vendor, unambiguously, what their component must do at its boundaries, independent of how they build what sits behind those boundaries. The absence of that layer is why integration fails at the seams. It is why rework dominates the back half of implementation projects. It is why the next SIS implementation will likely encounter the same problems as the last one, at greater cost, because the systems being integrated are more numerous and more interconnected than they were a decade ago.
 
 This is a solvable problem. It has been solved, under pressure, in aerospace manufacturing — an industry with structurally identical characteristics but considerably higher stakes for getting the interfaces wrong. The evidence for what the solution looks like, and the methodology for implementing it, exists. What does not yet exist in higher education is the infrastructure to use it: the practitioner training, the vendor intake processes, the governance frameworks, and the reference models that give institutions a formal starting point rather than a blank page.
 
-This paper proposes a first contribution toward that infrastructure.
+This work proposes a first contribution toward that infrastructure.
 
 
 **How Other Industries Got Here First**
