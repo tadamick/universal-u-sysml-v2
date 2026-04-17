@@ -60,7 +60,9 @@ The relevance to higher education is not metaphorical. It is structural.
 A modern university’s technology ecosystem — student information system, customer relationship management platform, learning management system, human capital management system, financial system, identity management infrastructure — exhibits precisely the characteristics that made the A380 program vulnerable. Components are built by different vendors. They are implemented in overlapping phases, often by different implementation partners, against requirements that have been specified in natural language documents subject to interpretation. Each vendor implements their component correctly against their own interpretation of what the interfaces require. Integration fails at the seams. Rework follows.
 
 The higher education sector has recognized this problem and has largely addressed it with the tools available: tighter governance, more rigorous vendor management, better testing protocols, and the adoption of Agile practices that allow course correction when integration failures surface. These are appropriate responses to the problem as currently defined. They are not sufficient responses to the problem as it is becoming.
-The Right Tool for the Right Problem
+
+
+**The Right Tool for the Right Problem**
 
 The right tool for a given project is determined by the structural characteristics of the problem, not by the sophistication of the team. Waterfall project management is well-suited to stable requirements, low interface complexity, and single-vendor delivery. Agile methodology is well-suited to high uncertainty, iterative discovery, and single-team delivery. Model-Based Systems Engineering — the formal specification of a system’s structure, behavior, interfaces, and requirements in a machine-readable model — is well-suited to high interface complexity, multi-vendor distributed development, and long asset lifecycles where the specification must outlast any particular implementation.
 
