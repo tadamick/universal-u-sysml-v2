@@ -9,9 +9,7 @@
 
 A Position Paper  ·  MBSE Research Initiative  ·  April 2026  ·  Draft for Review
 
-**From River Rouge to Toulouse**
-
-What Higher Education Can Learn from a Century of Manufacturing Complexity
+**From River Rouge to Toulouse**: What Higher Education Can Learn from a Century of Manufacturing Complexity
 
 
 **Abstract**
