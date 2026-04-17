@@ -10,7 +10,7 @@ Position Paper  ·  MBSE Research Initiative  ·  April 2026  ·  Draft fo
 
 **Abstract**
 
-This paper argues that higher education information technology deployments — and student information system implementations in particular — exhibit the structural characteristics that make Model-Based Systems Engineering the appropriate specification discipline: high interface complexity, multi-vendor distributed delivery, and long asset lifecycles. Drawing on a century of manufacturing evolution from River Rouge to the Airbus A350 program, it situates Model-Based Systems Engineering (MBSE) not as a replacement for Waterfall or Agile practices but as a missing complementary layer. It proposes a vendor-neutral SysML v2 reference model of the university enrollment process as an initial contribution to the infrastructure higher education may require in the future.
+This paper argues that higher education information technology deployments — and student information system implementations in particular — exhibit the structural characteristics that make Model-Based Systems Engineering (MBSE) the appropriate specification discipline: high interface complexity, multi-vendor distributed delivery, and long asset lifecycles. Drawing on a century of manufacturing evolution from River Rouge to the Airbus A350 program, it situates MBSE not as a replacement for Waterfall or Agile practices but as a missing complementary layer. It proposes a vendor-neutral SysML v2 reference model of the university enrollment process as an initial contribution to the infrastructure higher education may require in the future.
 
  
 **The Argument**
