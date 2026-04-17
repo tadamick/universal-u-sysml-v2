@@ -84,6 +84,7 @@ This work is offered as a contribution to the former path. The reference model w
 **References and Notes**
 
 Royce, W.W. (1970). Managing the development of large software systems. Proceedings of IEEE WESCON, 26, 1–9. The paper that defined waterfall methodology, drawing on sequential manufacturing process models.
+
 Ohno, T. (1988). Toyota Production System: Beyond Large-Scale Production. Productivity Press. The foundational text on Toyota Production System and just-in-time manufacturing.
 Deming, W.E. (1982). Out of the Crisis. MIT Press. Quality management as a systemic discipline; developed in Japan during the postwar period.
 Beck, K. et al. (2001). Manifesto for Agile Software Development. agilemanifesto.org.
