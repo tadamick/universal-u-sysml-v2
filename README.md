@@ -109,5 +109,3 @@ Postsecondary Electronic Standards Council. (2019). Student Academic History XML
 
 IMS Global Learning Consortium. (2012). IMS Learning Information Services (LIS) v2.0 Final Specification. imsglobal.org.
 
- 
- **From River Rouge to Toulouse  ·  Position Paper Draft  ·  MBSE Research Initiative  ·  April 2026**
