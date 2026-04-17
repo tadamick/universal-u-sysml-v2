@@ -87,6 +87,8 @@ MBSE is not inevitable in higher education. What is inevitable is that the curre
 
 This work is offered as a contribution to the former path. The to be completed reference model will be published as an open-source repository, structured for community extension, with a methodology companion that documents how public standards documentation translates to formal model elements. The intent is to give the next generation of higher education systems engineers something to build from — the specification for an airport that the aircraft will eventually require.
 
+
+
  
 **References and Notes**
 
