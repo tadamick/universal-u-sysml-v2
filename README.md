@@ -89,21 +89,20 @@ This work is offered as a contribution to the former path. The reference model w
  
 **References and Notes**
 
-Royce, W.W. (1970). Managing the development of large software systems. Proceedings of IEEE WESCON, 26, 1–9. The paper that defined waterfall methodology, drawing on sequential manufacturing process models.
-
-Ohno, T. (1988). Toyota Production System: Beyond Large-Scale Production. Productivity Press. The foundational text on Toyota Production System and just-in-time manufacturing.
+Beck, K. et al. (2001). Manifesto for Agile Software Development. agilemanifesto.org.
 
 Deming, W.E. (1982). Out of the Crisis. MIT Press. Quality management as a systemic discipline; developed in Japan during the postwar period.
 
-Beck, K. et al. (2001). Manifesto for Agile Software Development. agilemanifesto.org.
-
-Kingsley-Jones, M. (2006). Airbus A380 wiring problems explained. Flight International, October 2006. Documents the CATIA version incompatibility between Hamburg and Toulouse facilities that caused the A380 production delays.
-
 Helle, P. and Schramm, M. (2024). Fly me to the Moon — Modeling Apollo 11 using SysML v2. ResearchGate preprint. The direct methodological precedent for this work.
-
-National Center for Education Statistics. (2024). IPEDS Data Collection Glossary. nces.ed.gov/ipeds.
-
-Postsecondary Electronic Standards Council. (2019). Student Academic History XML Data Dictionary v1.9.0. pesc.org.
 
 IMS Global Learning Consortium. (2012). IMS Learning Information Services (LIS) v2.0 Final Specification. imsglobal.org.
 
+Kingsley-Jones, M. (2006). Airbus A380 wiring problems explained. Flight International, October 2006. Documents the CATIA version incompatibility between Hamburg and Toulouse facilities that caused the A380 production delays.
+
+National Center for Education Statistics. (2024). IPEDS Data Collection Glossary. nces.ed.gov/ipeds.
+
+Ohno, T. (1988). Toyota Production System: Beyond Large-Scale Production. Productivity Press. The foundational text on Toyota Production System and just-in-time manufacturing.
+
+Postsecondary Electronic Standards Council. (2019). Student Academic History XML Data Dictionary v1.9.0. pesc.org.
+
+Royce, W.W. (1970). Managing the development of large software systems. Proceedings of IEEE WESCON, 26, 1–9. The paper that defined waterfall methodology, drawing on sequential manufacturing process models.
