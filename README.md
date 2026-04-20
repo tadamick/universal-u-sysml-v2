@@ -10,7 +10,7 @@ MBSE Research Initiative  ·  April 2026  ·  Draft for Review
 
 **Abstract**
 
-Student information system implementations fail at a documented high rate. The cause is consistently identified as requirements ambiguity — not inadequate vendors, not insufficient governance, not undisciplined project management. This paper argues that higher education has a specification problem, and that the solution to specification problems of this structural type has already been developed and proven in manufacturing.
+Student information system implementations fail at a documented high rate. The cause is consistently identified as requirements ambiguity — not inadequate vendors, not insufficient governance, not undisciplined project management. This work argues that higher education has a specification problem, and that the solution to specification problems of this structural type has already been developed and proven in manufacturing.
 
 This work argues that higher education information technology deployments — and student information system implementations in particular — exhibit the structural characteristics that make Model-Based Systems Engineering (MBSE) the appropriate specification discipline: high interface complexity, multi-vendor distributed delivery, and long asset lifecycles. Drawing on a century of manufacturing evolution it offers MBSE not as a replacement for Waterfall or Agile practices but as a missing complementary layer. It offers a vendor-neutral SysML v2 reference model of a university enrollment process as an initial contribution to the infrastructure higher education may require in the future.
 
