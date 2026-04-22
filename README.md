@@ -64,9 +64,16 @@ The higher education sector has recognized this problem and has largely addresse
 
 The right tool for a given project is determined by the structural characteristics of the problem, not by the sophistication of the team. Waterfall project management is well-suited to stable requirements, low interface complexity, and single-vendor delivery. Agile methodology is well-suited to high uncertainty, iterative discovery, and single-team delivery. Model-Based Systems Engineering — the formal specification of a system’s structure, behavior, interfaces, and requirements in a machine-readable model — is well-suited to high interface complexity, multi-vendor distributed development, and long asset lifecycles where the specification must outlast any particular implementation.
 
-Higher education SIS implementations sit firmly in the third category. The interface complexity is high: enrollment touches financial aid, which touches student financials, which touches the human capital system, which touches identity management, which touches the learning management system. The delivery is multi-vendor and distributed: no single organization designs and builds all of these components. The asset lifecycle is long: institutions expect their SIS investments to serve them for fifteen to twenty years, across multiple technology generations. And the failure mode — requirements ambiguity producing interface failures that produce rework — is the same failure mode that the A350 program was specifically engineered to avoid.
+Higher education SIS implementations sit firmly in the third category. The interface complexity is high: enrollment touches financial aid, which touches student financials, which touches the human capital system, which touches identity management, which touches the learning management system. The delivery is multi-vendor and distributed: no single organization designs and builds all of these components. The asset lifecycle is long: institutions expect their SIS investments to serve them for fifteen to twenty years, across multiple technology generations. And the failure mode — requirements ambiguity producing interface failures that produce rework — is the same failure mode that the A350 program was specifically engineered to avoid. The table below highlights differences between current state and possible future state appproaches to the problem.
 
-The question is not whether MBSE is theoretically applicable to higher education IT. It is whether the sector will build the infrastructure to support it before the cost of not doing so becomes impossible to ignore.
+| Characteristic | Document-Driven | Model-Based |
+| :--- | :--- | :--- |
+| **Interface Logic** | Natural Language (Ambiguous) | Formal SysML v2 (Machine-Readable) |
+| **Validation** | Manual Review/UAT | Formal Traceability/Simulation |
+| **Asset Life** | Decays after Go-Live | Persists as Institutional Knowledge |
+
+
+The question is not whether MBSE is theoretically applicable to higher education IT. The quesiton is whether the sector will build the infrastructure to support it before the cost of not doing so becomes impossible to ignore.
 
 **The Proposal**
 
